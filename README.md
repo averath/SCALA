@@ -1,0 +1,2 @@
+# SCALA
+ćwiczenia ze scalą
